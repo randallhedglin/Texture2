@@ -1,0 +1,4 @@
+#include<windows.h>
+#include<afxres.h>
+#include"texture2.h"
+
